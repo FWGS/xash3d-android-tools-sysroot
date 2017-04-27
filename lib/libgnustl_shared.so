@@ -1,0 +1,1 @@
+GROUP( libc.so libstdc++.so newcxx11.o )
